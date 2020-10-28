@@ -17,5 +17,5 @@ The technology stack I'm familiar / well versed with:
 
 I believe that tests are an important part of the development. I prefer RSpec as the main test framework.
 
-Apart fom Ruby (and Ruby on Rails), I am also very interested in Elixir and Phoenix which are great for building concurrent and fault-tolerant systems.
+Apart from Ruby (and Ruby on Rails), I am also very interested in Elixir and Phoenix which are great for building concurrent and fault-tolerant systems.
 
